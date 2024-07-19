@@ -6,11 +6,11 @@
    ```bash
    git clone <repo-url>
 
-2. 
-This project setup includes:
+2. This project setup includes:
 - **Configuration management** with environment variables.
 - **Database integration** with SQLAlchemy.
 - **API routing** with Flask Blueprint.
 - **Logging setup** for better debugging and monitoring.
-- **Testing** with pytest for ensuring code reliability.
+- **Testing** with pytest to ensure code reliability.
 - **Documentation** for setting up and running the project.
+
