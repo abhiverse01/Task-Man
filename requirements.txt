@@ -1,6 +1,0 @@
-Flask
-gunicorn
-Flask-SQLAlchemy
-Flask-Migrate
-python-dotenv
-pytest
